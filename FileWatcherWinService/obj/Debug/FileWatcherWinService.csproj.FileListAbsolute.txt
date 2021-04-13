@@ -1,0 +1,9 @@
+D:\articleimg\FileWatcherWinService\FileWatcherWinService\bin\Debug\FileWatcherWinService.exe.config
+D:\articleimg\FileWatcherWinService\FileWatcherWinService\bin\Debug\FileWatcherWinService.exe
+D:\articleimg\FileWatcherWinService\FileWatcherWinService\bin\Debug\FileWatcherWinService.pdb
+D:\articleimg\FileWatcherWinService\FileWatcherWinService\obj\Debug\FileWatcherWinService.csprojResolveAssemblyReference.cache
+D:\articleimg\FileWatcherWinService\FileWatcherWinService\obj\Debug\FileWatcherWinService.FileWatcherService.resources
+D:\articleimg\FileWatcherWinService\FileWatcherWinService\obj\Debug\FileWatcherWinService.csproj.GenerateResource.Cache
+D:\articleimg\FileWatcherWinService\FileWatcherWinService\obj\Debug\FileWatcherWinService.exe
+D:\articleimg\FileWatcherWinService\FileWatcherWinService\obj\Debug\FileWatcherWinService.pdb
+D:\articleimg\FileWatcherWinService\FileWatcherWinService\obj\Debug\FileWatcherWinService.ProjectInstaller.resources

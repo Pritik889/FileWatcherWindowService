@@ -1,0 +1,13 @@
+﻿Installing assembly 'D:\articleimg\FileWatcherWinService\FileWatcherWinService\bin\Debug\FileWatcherWinService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\articleimg\FileWatcherWinService\FileWatcherWinService\bin\Debug\FileWatcherWinService.InstallLog
+   assemblypath = D:\articleimg\FileWatcherWinService\FileWatcherWinService\bin\Debug\FileWatcherWinService.exe
+Installing service WatchFolder...
+Service WatchFolder has been successfully installed.
+Creating EventLog source WatchFolder in log Application...
+Committing assembly 'D:\articleimg\FileWatcherWinService\FileWatcherWinService\bin\Debug\FileWatcherWinService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\articleimg\FileWatcherWinService\FileWatcherWinService\bin\Debug\FileWatcherWinService.InstallLog
+   assemblypath = D:\articleimg\FileWatcherWinService\FileWatcherWinService\bin\Debug\FileWatcherWinService.exe
